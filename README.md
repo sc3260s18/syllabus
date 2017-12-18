@@ -1,4 +1,4 @@
-# Syllabus for SC 3260/5260, Spring 2017
+# Syllabus for SC 3260/5260, Spring 2018
 
 This course is intended to give students hands-on scientific computing experience. 
 Students will use the Vanderbilt ACCRE computing facility to perform tasks derived 
